@@ -1,3 +1,4 @@
+//Declaração de bibliotecas
 #include <cstdlib>
 #include <iostream>
 
@@ -6,6 +7,7 @@ using namespace std;
 int main() {
     //Declara o vetor
     int vet[5];
+    
     //Inicializa o vetor
     vet[0] = 10;
     vet[1] = 20;
